@@ -19,4 +19,4 @@ MyPortfolio is a personal repository showcasing my projects, skills, and growth 
 ## ⚙️ Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/java-portfolio.git
+   git clone https://github.com/pionayyy11/MyPortfolio.git
